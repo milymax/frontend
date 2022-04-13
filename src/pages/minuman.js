@@ -1,5 +1,5 @@
 function Minuman() {
-    return <div className="mb-4 text-xl font semibold">minuman</div>
+    return <div class="hello">minuman</div>
 }
 
 export default Minuman;

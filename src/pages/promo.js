@@ -1,5 +1,9 @@
 function Promo() {
-    return <div className="mb-4 text-xl font semibold">Ini adalah halaman promo</div>
+    return (
+    <div class="hello-promo">Ramadhan Kareem
+    <div> </div>
+    </div>
+    )
 }
 
 export default Promo;

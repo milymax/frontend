@@ -1,3 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta:wght@500&display=swap');
+
+
 .body{
-    color: black;
+    background-image: url("../public/paper.jpg");
+
+}
+.hello{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10%;
+}
+.hello-home{
+    margin-top: 180px;
+    font-family:kristi;
+    font-size: 98px;
+}
+.hello-promo{
+    font-family: 'Enriqueta', serif;
+    font-size: 50px;
+}
+.navbar{
+    position: fixed;
+}
+.navbar-brand{
+    color:white;
+}
+.container{
+    background-color:#D7A86E;
+    text-align: center;
+    color: azure;
 }

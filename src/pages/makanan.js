@@ -1,8 +1,7 @@
-import Card_makanan from "../Components/Card_makanan";
-
+// import Card_makanan from "../Components/Card_makanan";
 function Makanan() {
     return (
-        <div className = "" > makanan</div >
+        <div class = "hello">makanan</div >
     )
 }
 

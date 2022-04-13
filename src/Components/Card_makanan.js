@@ -2,7 +2,7 @@ import React from "react"
 class Card_makanan extends React.Component {
     render() {
         return (
-            <h2>...</h2>
+            <h2>halooo</h2>
         )
     }
 }
