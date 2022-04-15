@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Enriqueta:wght@500&display=swap');
 
-
 .body{
     /* background-image: url("../public/paper.jpg"); */
-    background-color: #DAC09D;
+background-color: #DAC09D;
 }
 .slider{
-    width: 500px;
+    width:  100%;
 }
 .home{
 position: absolute;
@@ -31,7 +30,7 @@ left: 609px;
 top: 270px;
 
 border: 7px solid #FFFFFF;
-transform: rotate(91.1deg);
+transform: rotate(90.1deg);
 }
 .dariaku{
     position: absolute;
@@ -48,7 +47,6 @@ line-height: 37px;
 
 color: #FFFFFF;
 
-border: 1px solid #FFFFFF;
 }
 .hello-home{
     position: absolute;
@@ -77,9 +75,11 @@ border: 1px solid #FFFFFF;
 
     background: url(../public/home-head.jpg);
 }
-.navbar{
+.navbar-list{
     position: absolute;
     font-size: 20px;
+    padding: 30px;
+    left: 40px;
 }
 .navbar-brand{
     color:white;

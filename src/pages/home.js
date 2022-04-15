@@ -15,13 +15,13 @@ function Home() {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="piscok.jpg" class="d-block w-100" alt="..."></img>
+                        <img src="1.png" class="d-block w-100" alt="..."></img>
                     </div>
                     <div class="carousel-item">
-                        <img src="kopi.png" class="d-block w-100" alt="..."></img>
+                        <img src="2.png" class="d-block w-100" alt="..."></img>
                     </div>
                     <div class="carousel-item">
-                        <img src="roti-bakar.jpg" class="d-block w-100" alt="..."></img>
+                        <img src="3.png" class="d-block w-100" alt="..."></img>
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
